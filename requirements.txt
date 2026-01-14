@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+numpy
+presidio-analyzer
+presidio-anonymizer
+spacy
+ragas
+openai
+langchain
+langchain-community
+pypdf
