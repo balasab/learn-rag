@@ -30,6 +30,25 @@ The bleeding edge.
 -   **Agentic RAG**: Tools that decide *when* to search.
 -   **Evaluation**: Measuring Faithfulness and Relevance (RAGAS concepts).
 
+### [06. RAG Variations](./06_RAG_Variations)
+Beyond the standard retrieve-generate loop.
+-   **Architectures**: Classic, Branched, Memory-Enhanced, Contextual.
+-   **Techniques**: HyDe & Speculative RAG.
+
+### [07. Optimization & Tuning](./07_Optimization_and_Tuning)
+Improving performance through fine-tuning and staging.
+-   **RAFT**: Retrieval-Augmented Fine-Tuning.
+-   **Multi-Stage**: Reranking and refinement pipelines.
+
+### [08. Production Challenges](./08_Production_Challenges)
+Real-world deployment issues.
+-   **Operations**: Security, Compliance, and Scaling.
+
+### [09. Future Directions](./09_Future_Directions)
+Next generation RAG.
+-   **Multimodal**: Handling non-text data.
+-   **Adaptive**: Smart retrieval systems.
+
 ## Getting Started
 
 1.  **Install Dependencies**:
