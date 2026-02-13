@@ -29,7 +29,9 @@ add(1, 2)
 def yield_func():
     yield 1
     yield 2
-    with open("python/file.txt", "r") as f:
+    import os
+    file_path = os.path.join(os.path.dirname(__file__), "data", "sample.txt")
+    with open(file_path, "r") as f:
         for line in f:
             yield line.strip()
 x = yield_func()
